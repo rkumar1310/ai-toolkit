@@ -33,3 +33,4 @@ huggingface_hub
 peft
 gradio
 python-slugify
+hqq @ git+https://github.com/mobiusml/hqq@306e30d
